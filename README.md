@@ -11,6 +11,7 @@
 * **André Contarelli Lima** — RA: 10410280 — `10410280@mackenzista.com.br`
 * **Lucas Bittencourt de Oliveira** — RA: 10409476 — `10409476@mackenzista.com.br`
 * **Fernando Paiva** — RA: 10416680 — `10416680@mackenzista.com.br`
+* **Alexandre Ribeiro de Souza** — RA: 10417845 — `10417845@mackenzista.com.br`
 
 ---
 
