@@ -3,7 +3,7 @@
 **Universidade Presbiteriana Mackenzie**  
 **Faculdade de Computação e Informática (FCI)**  
 **Disciplina:** Inteligência Artificial – 7ºK SI – Noite | **Docente:** Prof. Dr. Leandro Zerbinatti  
-**Ano:** 2026[cite: 3]
+**Ano:** 2026
 
 ---
 
