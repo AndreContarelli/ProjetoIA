@@ -11,6 +11,7 @@ Membros da Equipe:
     1. André Contarelli Lima         - RA: 10410280 - 10410280@mackenzista.com.br
     2. Lucas Bittencourt de Oliveira - RA: 10409476 - 10409476@mackenzista.com.br
     3. Fernando Paiva                - RA: 10416680 - 10416680@mackenzista.com.br
+    4. Alexandre Ribeiro de Souza    - RA: 10417845 - 10417845@mackenzista.com.br
 
 Arquivo: 01_carga_e_analise_exploratoria.py
 Síntese do Conteúdo:
